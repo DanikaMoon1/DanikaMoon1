@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanikaMoon1
+- 👀 I’m interested in photoshop
+- 🌱 I’m currently learning JS, Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - just follow me
